@@ -67,7 +67,7 @@ We are open to academic collaboration, industry partnerships, and student partic
 |---|---|
 | Website | [spatiallab.ucenfotec.ac.cr](https://spatiallab.ucenfotec.ac.cr/) |
 | University | [ucenfotec.ac.cr](https://ucenfotec.ac.cr/) |
-| Email | briam.mora@ucenfotec.ac.cr |
+| Email | bmora@ucenfotec.ac.cr |
 | Location | San José, Costa Rica |
 
 ---
