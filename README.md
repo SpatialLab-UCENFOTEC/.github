@@ -44,8 +44,8 @@ Building XR experiences that are inclusive and adaptive across different abiliti
 Software engineer combining AI, spatial computing, and digital experience. Led immersive applications for Meta Quest and Apple Vision Pro; collaborated on projects for Netflix, Apple and Walmart.
 
 - B.Eng. Software Engineering, Costa Rica Institute of Technology (TEC)
-- MIT Professional Education — Technology Roadmapping
-- Copenhagen Institute of Interaction Design — Blockchain Solutions Design
+- Technology Roadmapping, MIT Professional Education
+- Blockchain Solutions Design, Copenhagen Institute of Interaction Design
 - [linkedin.com/in/briammora](https://www.linkedin.com/in/briammora/)
 
 ---
